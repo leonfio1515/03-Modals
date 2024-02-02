@@ -1,0 +1,15 @@
+La siguiente aplicacion ejecuta el proceso de registro mediante un modal.
+Para el ejemplo se utilizara el registro de un cliente
+
+En este incluimos dentro de la misma vista una tabla con los clientes creados, los cuales se pueden eitar y eliminar.
+Dentro de la misma vista inclumos el registro de nuevos clientes mediante un modal.
+Se implementa Datatable, que nos permite realizar ordenamiento y busqueda de elementos dentro de la tabla, asi como un paginado entre otras funcionalidades, incluimos un boton para la exportacion de la misma en excel.
+
+Para ello debera ejecutar la aplicacion mediante python manage.py runserver
+
+una vez ejecutado debera acceder a http://127.0.0.1:8000
+
+Alli debera registrarse y/o iniciar sesion.
+
+En el menu lateral encontrara las opciones para realizar el registro
+
